@@ -1,0 +1,24 @@
+#Java Modifiers
+
+#Access Modifiers - Controls the access level
+#Non Access Modifiers - to provide the other functionality
+
+#Access Modifiers
+1.Class - public/default
+2. Attributes/variable/method/constructor
+
+	1. public 2.private 3. default 4. protected(Inheritance)
+	
+#Non Access Modifiers
+1.class - final or abstract
+final - the class cannot be inherited by other class
+abstract - object can't be created
+
+1. attributes and method
+static,final,abstract,transient,synchronized
+
+static- we can directly access it using class ..object is not required
+final - we can't overriden the method or attributes
+abstract - implementation (subclass) - declaration -abstract
+transient - when it is required to not serialize the attributes
+synchronized - only one thread can access at a time

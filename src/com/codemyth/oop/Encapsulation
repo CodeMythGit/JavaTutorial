@@ -1,0 +1,15 @@
+#Java Encapsulation
+
+Encapsulation - Hiding the data/attributes from the outer world
+
+1. attribute/variable should be mark as PRIVATE
+2. value can be accessible using getter 
+2. value can be updated using setter
+
+syntax :
+Getter - getVairableName
+age - getAge()
+
+
+Setter - setVariableName()
+name - setName()
